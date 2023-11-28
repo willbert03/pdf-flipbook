@@ -1,12 +1,4 @@
-# PDF Flipbook
-
-https://pdfflipbook.vercel.app - Demo
-
-## FAQ
-
-# Documentation
-
-## troubleshooting
+## Troubleshooting
 
 ### Flipbook pages are not visible/defective in PDF
 Check the pdf if using the link Make sure that cross-origin resource sharing is enabled 
