@@ -142,7 +142,7 @@
 
 .df-container.df-loading:after {
     content: " ";
-    background-image: url("../images/loading.gif");
+    background-image: url("../images/loading.svg");
     background-repeat: no-repeat;
     background-size: 32px;
     background-position: 50%
@@ -1115,7 +1115,7 @@ section.linkAnnotation a .annotationLayer>a {
 }
 
 .df-page-loading:after {
-    background-image: url("../images/loading.gif");
+    background-image: url("../images/loading.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 22px
@@ -1135,7 +1135,7 @@ section.linkAnnotation a .annotationLayer>a {
 
 .df-thumb-container .df-vrow:before {
     content: "";
-    background-image: url("../images/loading.gif");
+    background-image: url("../images/loading.svg");
     background-size: 22px;
     height: 22px;
     width: 22px;
